@@ -7,7 +7,7 @@ I am Daniel, a 32-years-old Automotive Application Engineer, PhD Student and res
 - Big Data processing on distributed systems
 - Docker
 
-Moreover, I am interested in
+I am also interested in:
 - Analogue photography
 - Photoshop
 - InDesign
