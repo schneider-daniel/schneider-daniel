@@ -4,6 +4,7 @@ I am Daniel, a 32-years-old researcher. I am interested in:
 - Robotic Operating System (ROS)
 - Objective evaluation of ADAS and AD functions
 - Data Science and its applications
+- Image processing
 - Big Data processing on distributed systems
 - Docker
 
@@ -13,9 +14,9 @@ I am also interested in:
 - InDesign
 
 ## Skills
-- Python
-- C++
-- Matlab
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=008080)
 
 ## Publications & Lectures
 - [Data Science & AI lecture](https://github.com/lnxdxC/DSAI)
