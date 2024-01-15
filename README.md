@@ -15,7 +15,10 @@ I am also interested in:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Code-Shell_script-informational?style=flat&logo=gnu-bash&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=008080)
+![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=008080)
 
 ## Publications & Lectures
 - [Data Science & AI lecture](https://github.com/lnxdxC/DSAI)
@@ -26,6 +29,7 @@ I am also interested in:
 -	[Big Data & Analytics Platform for ADAS/AD, Diagnose in mechatronischen Fahrzeugsystemen XIV, Dresden, 2021](https://www.researchgate.net/publication/351918717_Big_Data_Analytics_Platform_for_ADASAD)
 -	[Model Validation and Scenario Selection for Virtual-Based Homologation of Automated Vehicles, MDPI Applied Sciences, 2021](https://www.mdpi.com/2076-3417/11/1/35)
 -	[Methods for Simulation-Based Homologation of a Lane-Keeping-Assist, International Symposium on Development Methodology, 2021](https://publikationen.bibliothek.kit.edu/1000151974)
+-	[Data-driven map generation & re-simulation, VVM Final Event, November, 2023 Stuttgart](https://www.vvm-projekt.de/fileadmin/user_upload/Final_Event/Poster/VVM_FE_Poster_07.01_Data_driven_Map_Generation_web.pdf)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniel-schneider-39198b160/)
