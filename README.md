@@ -32,6 +32,7 @@ I am also interested in:
 -	[Model Validation and Scenario Selection for Virtual-Based Homologation of Automated Vehicles, MDPI Applied Sciences, 2021](https://www.mdpi.com/2076-3417/11/1/35)
 -	[Methods for Simulation-Based Homologation of a Lane-Keeping-Assist, International Symposium on Development Methodology, 2021](https://publikationen.bibliothek.kit.edu/1000151974)
 -	[Data-driven map generation & re-simulation, VVM Final Event, November, 2023 Stuttgart](https://www.vvm-projekt.de/fileadmin/user_upload/Final_Event/Poster/VVM_FE_Poster_07.01_Data_driven_Map_Generation_web.pdf)
+-	[fROS: A Generic Fieldbus Framework for ROS](https://ieeexplore.ieee.org/document/10436384)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniel-schneider-39198b160/)
