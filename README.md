@@ -24,6 +24,7 @@ I am also interested in:
 
 ## Publications & Lectures
 - [Data Science & AI lecture](https://github.com/lnxdxC/DSAI)
+- [Automotive Sensors & Actuators](https://github.com/schneider-daniel/ASAA)
 -	[Non-destructive Quality Testing of Battery Separators, Procedia CIRP, 2017](https://www.sciencedirect.com/science/article/pii/S2212827116306205)
 -	Automated evaluation of ADAS based on high fidelity 3D "Ground Truth Maps", International Symposium on Advanced Vehicle Technology (ISAVT), Illertissen, 2018
 -	[Measuring method for function and quality of automated lateral control based on high-precision digital "Ground Truth" maps, VDI Berichte 2335, 2018](https://www.researchgate.net/publication/344938400_Measuring_method_for_function_and_quality_of_automated_lateral_control_based_on_high-precision_digital_Ground_Truth_maps)
