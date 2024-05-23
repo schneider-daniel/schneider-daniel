@@ -1,5 +1,5 @@
 # Hej 👋
-I am Daniel, a 32-years-old researcher. I am interested in: 
+I am Daniel, a 32-years-old engineer. I am interested in: 
 
 - Robotic Operating System (ROS)
 - Objective evaluation of ADAS and AD functions
