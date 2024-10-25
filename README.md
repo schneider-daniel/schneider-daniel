@@ -35,6 +35,8 @@ I am also interested in:
 -	[Data-driven map generation & re-simulation, VVM Final Event, November, 2023 Stuttgart](https://www.vvm-projekt.de/fileadmin/user_upload/Final_Event/Poster/VVM_FE_Poster_07.01_Data_driven_Map_Generation_web.pdf)
 -	[fROS: A Generic Fieldbus Framework for ROS, IEEE Transactions on Intelligent Vehicles, 2024](https://ieeexplore.ieee.org/document/10436384)
 -	[fROS: A Generic Fieldbus Framework for ROS, Oral Presentation, Explore to innovate, 2024](https://github.com/schneider-daniel/puplications/blob/4030c191ea9ca196a1a8d918ccea3279a7eb33a8/ETI_2024_fROS.pdf)
+- ROStopbox: A Human-Centered Vehicle Environment Data Acquisition System, Paper, IEEE IAVVC, 2024
+-	[ROStopbox: A Human-Centered Vehicle Environment Data Acquisition System, Poster, IEEE IAVVC, 2024](https://github.com/schneider-daniel/puplications/blob/fb4af835aaefa762bc4ccd08c0147bc31e3dd2a5/IAVVC_2024_POSTER_ROStopbox.pdf)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniel-schneider-39198b160/)
