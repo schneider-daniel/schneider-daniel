@@ -37,7 +37,7 @@ I am also interested in:
 -	[fROS: A Generic Fieldbus Framework for ROS, Oral Presentation, Explore to innovate, 2024](https://github.com/schneider-daniel/puplications/blob/4030c191ea9ca196a1a8d918ccea3279a7eb33a8/ETI_2024_fROS.pdf)
 - [ROStopbox: A Human-Centered Vehicle Environment Data Acquisition System, Paper, IEEE IAVVC, Pittsburgh, PA, 2024](https://2024.iavvc.org/)
 -	[ROStopbox: A Human-Centered Vehicle Environment Data Acquisition System, Poster, IEEE IAVVC, Pittsburgh, PA, 2024](https://github.com/schneider-daniel/puplications/blob/fb4af835aaefa762bc4ccd08c0147bc31e3dd2a5/IAVVC_2024_POSTER_ROStopbox.pdf)
--	[Tool-based Support for Homologation of Automated Lane Keeping and Future Driver Assistance Systems. ATZ Electron Worldw 19, 42–47, 2024](https://link.springer.com/article/10.1007/s38314-024-1941-6
+-	[Tool-based Support for Homologation of Automated Lane Keeping and Future Driver Assistance Systems. ATZ Electron Worldw 19, 42–47, 2024](https://link.springer.com/article/10.1007/s38314-024-1941-6)
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daniel-schneider-39198b160/)
