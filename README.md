@@ -24,6 +24,7 @@ I am also interested in:
 
 ## Publications & Lectures
 - [Data Science & AI lecture](https://github.com/lnxdxC/DSAI)
+- [Software Development Methods - 2025](https://github.com/schneider-daniel/SEM25-python/)
 - [Automotive Sensors & Actuators](https://github.com/schneider-daniel/ASAA)
 -	[Non-destructive Quality Testing of Battery Separators, Procedia CIRP, 2017](https://www.sciencedirect.com/science/article/pii/S2212827116306205)
 -	Automated evaluation of ADAS based on high fidelity 3D "Ground Truth Maps", International Symposium on Advanced Vehicle Technology (ISAVT), Illertissen, 2018
