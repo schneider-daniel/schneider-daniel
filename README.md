@@ -22,11 +22,12 @@ I am also interested in:
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=008080)
 
-## Publications & Lectures
+## Lectures
 - [Data Science & AI lecture](https://github.com/lnxdxC/DSAI)
 - [Software Development Methods - 2025](https://github.com/schneider-daniel/SEM25-python/)
 - [Automotive Sensors & Actuators - 2024](https://github.com/schneider-daniel/ASAA)
 - [Automotive Sensors & Actuators - 2025](https://github.com/schneider-daniel/ASAA-2025)
+## Publications
 -	[Non-destructive Quality Testing of Battery Separators, Procedia CIRP, 2017](https://www.sciencedirect.com/science/article/pii/S2212827116306205)
 -	Automated evaluation of ADAS based on high fidelity 3D "Ground Truth Maps", International Symposium on Advanced Vehicle Technology (ISAVT), Illertissen, 2018
 -	[Measuring method for function and quality of automated lateral control based on high-precision digital "Ground Truth" maps, VDI Berichte 2335, 2018](https://www.researchgate.net/publication/344938400_Measuring_method_for_function_and_quality_of_automated_lateral_control_based_on_high-precision_digital_Ground_Truth_maps)
